@@ -1,0 +1,19 @@
+<!DOCTYPE html><html lang="id"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1.0"><title>Mata Pelajaran — AZKA SHOFA NASHWAH</title><link rel="stylesheet" href="style.css"></head><body><input type="checkbox" id="mobileToggle" class="ui-toggle"><label class="mobile-menu" for="mobileToggle">☰</label>
+<aside class="sidebar">
+<div class="profile-icon"><img src="images/profile.jpg" alt="Profil AZKA SHOFA NASHWAH"></div><div class="site-title">AZKA SHOFA<br>NASHWAH</div>
+<nav class="side-nav">
+<a class="" href="index.html">Beranda</a>
+<details class="nav-details"><summary><span>⌄</span> Mata Pelajaran</summary><div class="sub-menu"><a href="mata-pelajaran.html">Mata Pelajaran</a></div></details>
+<details class="nav-details"><summary><span>⌄</span> Tugas</summary><div class="sub-menu"><a href="tugas.html">Tugas</a></div></details>
+<a class="" href="tentang.html">Tentang</a>
+</nav></aside><main class="content" id="top">
+<div class="utility-tools">
+  <input type="checkbox" id="searchToggle" class="ui-toggle">
+  <label class="search-button" for="searchToggle" aria-label="Buka pencarian">⌕</label>
+  <a class="scroll-top" href="#top" aria-label="Kembali ke atas">↑</a>
+  <div class="search-panel">
+    <input type="search" placeholder="Ketik untuk mencari..." aria-label="Pencarian">
+    <label class="close-search" for="searchToggle">×</label>
+    <p>Gunakan pencarian browser dengan <b>Ctrl + F</b> untuk menemukan teks.</p>
+  </div>
+</div><div class="search-button">⌕</div><section class="page"><h1>Mata Pelajaran</h1><div class="page-card"><img src="images/pelajaran.jpg" alt="Mata Pelajaran"><h2>Daftar Mata Pelajaran</h2><p>Halaman ini berisi daftar mata pelajaran yang dipelajari. Silakan tambahkan materi, jadwal, atau tautan pembelajaran sesuai kebutuhan website.</p><ul><li>Bahasa Indonesia</li><li>Matematika</li><li>Bahasa Inggris</li><li>Ilmu Pengetahuan Alam</li><li>Ilmu Pengetahuan Sosial</li></ul></div><a class="back-link" href="index.html">← Kembali ke Beranda</a></section><footer>AZKA SHOFA NASHWAH</footer></main></body></html>
